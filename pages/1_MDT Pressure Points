@@ -6,6 +6,7 @@ import lasio as ls
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import streamlit as st
 import scipy
 
 st.title("""Field Level  Performance Dashboard Page """)
